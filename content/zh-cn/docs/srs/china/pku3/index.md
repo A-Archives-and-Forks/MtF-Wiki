@@ -106,7 +106,7 @@ weight: 2001
 
 ### 2026 年 5 月手术
 
-- 术后 14 天拍摄
+- 术后 3 个月拍摄
 
 {{< hiddenphoto "postoperative-1-1.jpg" >}}
 {{< hiddenphoto "postoperative-1-2.jpg" >}}
